@@ -1,0 +1,14 @@
+create database college;
+
+use college;
+
+create table users
+(
+	id int primary key auto_increment,
+    uname varchar(50),
+    uemail varbinary(50),
+    upassword varchar(50),
+    umobile varchar(20)
+);
+    
+desc users;
