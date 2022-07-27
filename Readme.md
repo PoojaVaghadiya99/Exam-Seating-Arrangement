@@ -1,16 +1,6 @@
 
 # Exam Seating Arrangement
 
-## Team Members - 
-
-|       Name        |     PRN      |
-|    -----------    |  ----------  |
-| Dhruvi Patel      |  8021074112  |
-| Pooja Vaghadiya   |  8021004918  |
-| Christian Kinjal  |  8021070944  |
-
-## How to Run -
-
 Installation Instructions ==>
 
 1. Download / Install Eclipse
